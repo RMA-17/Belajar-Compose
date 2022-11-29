@@ -43,8 +43,8 @@ fun SearchBar(
             .padding(16.dp)
             .fillMaxWidth()
             .heightIn(min = 48.dp)
-            .clip(RoundedCornerShape(16.dp)
-    ))
+            .clip(RoundedCornerShape(16.dp))
+    )
 }
 
 @Preview(showBackground = true)

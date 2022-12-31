@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JetNoteApp</string>
+    <string name="msg_no_note">There\'s no note here. Try to add some</string>
+    <string name="msg_search_not_found">\"There\'s no such note with title or content: \"</string>
+    <string-array name="initial_note_content">
+        <item>Selamat datang di JetNotes!</item>
+        <item>Disini kamu bisa menambahkan note</item>
+        <item>dengan mengklik FAB dibawah</item>
+        <item>Contohnya seperti note-note seperti dibawah ini</item>
+        <item>Kamu bisa menambahkan title:dan juga content!</item>
+        <item>bisa juga menambahkan gambar untuk setiap catatan kamu!</item>
+        <item>project ini dibuat dengan pure jetpack compose</item>
+        <item>Hello World:Hello</item>
+        <item>klik gambar diatas saat menamhbahkan catatan</item>
+        <item>untuk menambahkan gambar catatan</item>
+    </string-array>
+</resources>
